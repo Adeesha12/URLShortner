@@ -1,0 +1,12 @@
+certifi
+charset-normalizer
+exceptiongroup
+idna
+iniconfig
+packaging
+pluggy
+pyshorteners
+pytest
+requests
+tomli
+urllib3
